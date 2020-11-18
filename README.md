@@ -1,7 +1,7 @@
 # Quizizz Hack
 
 This is a simple command line program that allows you to get the answers to your [Quizizz](https://quizizz.com) quiz.
-Made this cuz my bro wanted to cheat on a test. Yeah.
+~~Made this cuz my bro wanted to cheat on a test. Yeah.~~ he told me not to say that so....
 
 ## How To Run
 - Download the compressed binary for your platform from the latest [Release](https://github.com/amitojsingh366/quizizz-hack/releases)
