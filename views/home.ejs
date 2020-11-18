@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Quizizz Hack</title>
+    <link rel="stylesheet" href="../static/home.css">
+</head>
+
+<body class="bg-dark">
+    <form action="/get" method="POST">
+        <input placeholder="Quiz ID" name="id" class="input-feild"><br><br>
+        <button type="submit" class="start-btn">Get Answers!</button>
+    </form>
+    <% for (var i = 0; i < answers.length; i++) { %>
+    <p><i><%= answers[i].q %>:</i>&nbsp;&nbsp;&nbsp;&nbsp;<strong><%= answers[i].a %></strong></p><br>
+    <% } %>
+
+    <footer>
+        <p>
+            <font color="#99AAB5" size="2">Work By Amitoj Singh<br>View the source code here: <a
+                    href="https://shrt.amitoj.net/quizizz-hack">https://shrt.amitoj.net/quizizz-hack</a><br>
+            </font>
+        </p>
+    </footer>
+</body>
+
+</html>

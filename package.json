@@ -1,0 +1,33 @@
+{
+    "name": "quizizz-hack",
+    "version": "1.0.0",
+    "description": "hek",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [
+        "hek"
+    ],
+    "author": "Amitoj Singh",
+    "license": "MIT",
+    "dependencies": {
+        "axios": "^0.21.0",
+        "ejs": "^3.1.5",
+        "express": "^4.17.1",
+        "multer": "^1.4.2"
+    },
+    "pkg": {
+        "assets": [
+            "node_modules/**/*",
+            "static/**/*",
+            "views/**/*"
+        ],
+        "targets": [
+            "node12-macos-x64",
+            "node12-win-x64",
+            "node12-linux-x64"
+        ]
+    },
+    "bin": "index.js"
+}
