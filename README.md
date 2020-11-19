@@ -1,7 +1,7 @@
 # Quizizz Hack
 
 This is a simple command line program that allows you to get the answers to your [Quizizz](https://quizizz.com) quiz.
-\n**Current Status** This will not work on a live quiz due to their patch. However all other quiz's will work
+&nbsp;&nbsp;**Current Status** This will not work on a live quiz due to their patch. However all other quiz's will work
 ## How To Run
 - Download the compressed binary for your platform from the latest [Release](https://github.com/amitojsingh366/quizizz-hack/releases)
 - Extract the binary from the compressed file
