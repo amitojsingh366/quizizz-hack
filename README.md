@@ -2,6 +2,7 @@
 
 This is a simple command line program that allows you to get the answers to your [Quizizz](https://quizizz.com) quiz.  
 **Current Status** This will not work on a live quiz due to their patch. However all other quiz's will work
+**Note** Issue [#4](https://github.com/amitojsingh366/quizizz-hack/issues/4) *may* have a working method of getting live quiz answers.
 ## How To Run
 - Download the compressed binary for your platform from the latest [Release](https://github.com/amitojsingh366/quizizz-hack/releases)
 - Extract the binary from the compressed file
